@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, User, Mail, Lock } from "lucide-react";
